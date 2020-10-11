@@ -1,0 +1,10 @@
+<%- include("partials/header") -%>
+
+<form action="/delete" method="post">
+  <h2 class="title"><%= title %></h2>
+  <button type="submit" name="clicked" class="submit" value="<%= comid %>"><img class="del-icon" src="/images/delete.png" alt="Delete"></button>
+  <p class="content"><%= content %></p>
+</form>
+
+
+<%- include("partials/footer") -%>
