@@ -2,7 +2,7 @@
 
 Demo Link: https://daily-journal-729.herokuapp.com
 
-![Design preview](public/images/Screenshot.jpg)
+![Design preview](public/images/ss.jpg)
 
 ## Welcome! 👋
 
